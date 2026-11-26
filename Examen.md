@@ -139,4 +139,4 @@ public double getAverage()
 
 ## 8. Entrega
 
-Entrega el proyecto completo comprimido en un archivo `.zip` con el nombre `Apellido_Nombre.zip`.
+La entrega se hace con un fork en GitHub. Sigue los pasos de [ENTREGA.md](ENTREGA.md).
